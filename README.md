@@ -10,3 +10,6 @@ The plan is to do a daily deep dive and analysis of a blog post. The blogs are p
 If applicable I will also implement something that uses at least one of the technologies/methadologies referenced in the blog.
 If the scope grows too big for a project I will split it into its own repo.
 
+# Journal Entries
+
+- [2026-05-24 - Programmers Beware - UX is not Just For Designers](./Daily/Day%201%20-%20Programmers%20Beware%20-%20UX%20is%20Not%20Just%20for%20Designers/)
