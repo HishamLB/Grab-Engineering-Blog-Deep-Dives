@@ -13,6 +13,8 @@ I can still provide my findings using the visualizer tool!
 
 It works! 
 
+![visualizer](images/vis.png)
+
 Surprisingly intuitive setup. Let's take a closer look. 
 ```crypto/``` is consuming ~35 MB out of the 39 MB binary (90% of it!)
 
