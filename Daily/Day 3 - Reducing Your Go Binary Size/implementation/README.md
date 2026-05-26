@@ -24,27 +24,29 @@ Apparantly Go put FIPS 140 support directly into standard library but I'm not su
 Background is it is a Jetpack Compose project. That's all.
 
 For a part of the project (it is ugly):
-├── presentation/
-│   ├── admin/
-│   ├── auth/
-│   │   ├── JoinCommunityScreen.kt
-│   │   └── SignUpScreen.kt
-│   ├── dashboard/
-│   │   ├── CampusDashboardScreen.kt
-│   │   ├── DashboardSection.kt
-│   │   ├── components/   [THERE ARE 36 FILES HERE]
-│   │   ├── models/
-│   │   └── utils/
-│   ├── manager/
-│   │   ├── ManagerAnalyticsScreen.kt
-│   │   ├── ManagerAuditLogsScreen.kt
-│   │   ├── ManagerCommunityBoundsScreen.kt
-│   │   ├── ManagerCommunitySetupScreen.kt
-│   │   ├── ManagerConfigureMetricsScreen.kt
-│   │   ├── ManagerConfigureSpacesScreen.kt
-│   │   ├── ManagerSafetyIncidentsScreen.kt
-│   │   └── ManagerTrustControlsScreen.kt
-│   ├── navigation/
-│   └── reports/
+```
+presentation/
+├── admin/
+├── auth/
+│   ├── JoinCommunityScreen.kt
+│   └── SignUpScreen.kt
+├── dashboard/
+│   ├── CampusDashboardScreen.kt
+│   ├── DashboardSection.kt
+│   ├── components/   (36 files — needs refactor)
+│   ├── models/
+│   └── utils/
+├── manager/
+│   ├── ManagerAnalyticsScreen.kt
+│   ├── ManagerAuditLogsScreen.kt
+│   ├── ManagerCommunityBoundsScreen.kt
+│   ├── ManagerCommunitySetupScreen.kt
+│   ├── ManagerConfigureMetricsScreen.kt
+│   ├── ManagerConfigureSpacesScreen.kt
+│   ├── ManagerSafetyIncidentsScreen.kt
+│   └── ManagerTrustControlsScreen.kt
+├── navigation/
+└── reports/
+```
 
 The fix is a bit obvious refactor components and utils so dashboard does not own them! 
