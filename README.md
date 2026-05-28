@@ -18,4 +18,4 @@ Backend:
 - [2026-05-25 - Streamlining Grab's Segmentation Platform with faster creation and lower latency](./Daily/Streamlining%20Grabs%20Segmentation%20Platform%20with%20faster%20creation%20and%20lower%20latency/)
 - [2026-05-26 - Reducing Your Go Binary Size](./Daily/Day%203%20-%20Reducing%20Your%20Go%20Binary%20Size/)
 - [2026-05-27 - Marionette: Enabling E2E User-scenario Simulation](./Daily/Day%204%20-%20Marionette:%20Enabling%20E2E%20User-scenario%20Simulation/)
-
+- [2026-05-28 - How We Implemented Domain-Driven Development in Golang](./Daily/Day%205%20-%20How%20We%20Implemented%20Domain-Driven%20Development%20in%20Golang/)
