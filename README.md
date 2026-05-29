@@ -14,6 +14,7 @@ If the scope grows too big for a project I will split it into its own repo.
 
 API:
 - [2026-05-24 - Programmers Beware - UX is not Just For Designers](./Daily/Day%201%20-%20Programmers%20Beware%20-%20UX%20is%20Not%20Just%20for%20Designers/)
+
 Backend:
 - [2026-05-25 - Streamlining Grab's Segmentation Platform with faster creation and lower latency](./Daily/Streamlining%20Grabs%20Segmentation%20Platform%20with%20faster%20creation%20and%20lower%20latency/)
 - [2026-05-26 - Reducing Your Go Binary Size](./Daily/Day%203%20-%20Reducing%20Your%20Go%20Binary%20Size/)
