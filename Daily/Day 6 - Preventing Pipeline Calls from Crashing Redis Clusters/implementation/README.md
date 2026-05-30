@@ -20,4 +20,4 @@ To do this I had to grab and old version of ```Redis-Go```, ```v6``` to be exact
 I ran into some issues using that old of a version mostly about Valkey but other than that I could replicate it! 
 
 I could also replicate the ~60s till the Cluster reads the state of a slave as well as shown here: 
-
+![60s](images/60s.png)
