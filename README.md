@@ -21,3 +21,5 @@ Backend:
 - [2026-05-27 - Marionette: Enabling E2E User-scenario Simulation](./Daily/Day%204%20-%20Marionette:%20Enabling%20E2E%20User-scenario%20Simulation/)
 - [2026-05-28 - How We Implemented Domain-Driven Development in Golang](./Daily/Day%205%20-%20How%20We%20Implemented%20Domain-Driven%20Development%20in%20Golang/)
 - [2026-05-30 - Preventing Pipeline Calls from Crashing Redis Clusters](./Daily/Day%206%20-%20Preventing%20Pipeline%20Calls%20from%20Crashing%20Redis%20Clusters/)
+- [2026-05-31 - Reliable and Scalable Feature Toggles and A/B Testing SDK at Grab](./Daily/Day%207%20-%20Reliable%20and%20Scalable%20Feature%20Toggles%20and%20A%2FB%20Testing%20SDK%20at%20Grab/)
+- [2026-06-01 - Mockers - Overcoming Testing Challenges at Grab](./Daily/Day%208%20-%20Mockers%20-%20Overcoming%20Testing%20Challenges%20at%20Grab/)
