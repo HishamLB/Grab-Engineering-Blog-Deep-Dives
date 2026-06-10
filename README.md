@@ -23,3 +23,6 @@ Backend:
 - [2026-05-30 - Preventing Pipeline Calls from Crashing Redis Clusters](./Daily/Day%206%20-%20Preventing%20Pipeline%20Calls%20from%20Crashing%20Redis%20Clusters/)
 - [2026-05-31 - Reliable and Scalable Feature Toggles and A/B Testing SDK at Grab](./Daily/Day%207%20-%20Reliable%20and%20Scalable%20Feature%20Toggles%20and%20A%2FB%20Testing%20SDK%20at%20Grab/)
 - [2026-06-01 - Mockers - Overcoming Testing Challenges at Grab](./Daily/Day%208%20-%20Mockers%20-%20Overcoming%20Testing%20Challenges%20at%20Grab/)
+- [2026-06-02 - Loki, a Dynamic Mock Server for HTTP/TCP Testing](./Daily/Day%209%20-%20Loki,%20a%20Dynamic%20Mock%20Server%20for%20HTTPTCP%20Testing/)
+- [2026-06-10 - How We Designed the Quotas Microservice to Prevent Resource Abuse](./Daily/Day%2010%20-%20How%20We%20Designed%20the%20Quotas%20Microservice%20to%20Prevent%20Resource%20Abuse/)
+
