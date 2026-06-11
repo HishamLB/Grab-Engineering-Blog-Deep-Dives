@@ -25,4 +25,4 @@ Backend:
 - [2026-06-01 - Mockers - Overcoming Testing Challenges at Grab](./Daily/Day%208%20-%20Mockers%20-%20Overcoming%20Testing%20Challenges%20at%20Grab/)
 - [2026-06-02 - Loki, a Dynamic Mock Server for HTTP/TCP Testing](./Daily/Day%209%20-%20Loki,%20a%20Dynamic%20Mock%20Server%20for%20HTTPTCP%20Testing/)
 - [2026-06-10 - How We Designed the Quotas Microservice to Prevent Resource Abuse](./Daily/Day%2010%20-%20How%20We%20Designed%20the%20Quotas%20Microservice%20to%20Prevent%20Resource%20Abuse/)
-
+- [2026-06-11 - Building Grab's Experimentation Platform](./Daily/Day%2011%20-%20Building%20Grab's%20Experimentation%20Platform/)
