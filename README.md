@@ -1,4 +1,4 @@
-# What is this?
+# What is this? [PAUSED]
 
 This repository documents my journey exploring Grab's Engineering Tech Blog (https://engineering.grab.com/).
 The goal is to understand how large-scale, enterprise-level engineering problems are solved in the real world, and to learn from the design decisions used by actual prod teams. 
